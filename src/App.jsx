@@ -194,7 +194,7 @@ export default function App() {
         <Contact />
       </main>
       <footer className="footer">
-        <span>&copy; {new Date().getFullYear()} Victor Onofiok</span>
+        <span>&copy; 2024 Victor Onofiok</span>
       </footer>
     </div>
   )
