@@ -51,20 +51,10 @@ function Intro() {
       </h1>
       <div className="lede">
         <p>
-          Six years building backend and AI systems in production, mostly the services other teams
-          depend on. B.Sc. Computer Science, University of Lagos. Today I&rsquo;m the{' '}
+          Software Engineer with 6 years of experience building full-stack products.
+          B.Sc. Computer Science, University of Lagos.
           <strong>Engineering Founder at Ovulabs</strong>, a startup building security infrastructure in
-          Nigeria &mdash; the unglamorous plumbing that decides whether everything above it stays
-          standing.
-        </p>
-        <p>
-          I like problems with sharp edges: distributed systems, AI infrastructure, the backend nobody
-          notices until it breaks. I care more about the system that still works in year three than the
-          demo that dazzles on a Tuesday.
-        </p>
-        <p className="aside">
-          Off the clock, I am <em>unreasonably</em> competitive at FIFA and genuinely dangerous in Apex
-          Legends.
+          Nigeria &mdash;.
         </p>
       </div>
     </section>
